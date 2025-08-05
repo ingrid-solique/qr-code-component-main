@@ -11,6 +11,12 @@
     --dark-blue: hsl(218, 44%, 22%);
 }
 
+body * {
+    font-family: "Inter", sans-serif;
+    color: var(--dark-blue);
+    text-align: center;
+}
+
 body{
     background-color: var(--light-blue);
     width: 100vw;
@@ -19,8 +25,6 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-
-    font-family: "Inter", sans-serif;
 }
 
 #content{
@@ -28,8 +32,7 @@ body{
     height: 499px;  
     background-color: var(--white);
     border-radius: 15px;
-    color: var(--dark-blue);
-    text-align: center;
+    
 }
 
 #content img{
