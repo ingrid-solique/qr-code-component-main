@@ -45,11 +45,11 @@ body{
 #content h1{
     font-size: 20px;
     font-weight: 900;
-    margin: 0 20px;
+    margin: 5px 20px;
 }
 
 #content p{
     font-size: 15px;
-    font-weight: 300;
+    font-weight: 250;
     margin: 20px;
 }
