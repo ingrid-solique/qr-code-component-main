@@ -27,7 +27,7 @@ body{
     align-items: center;
 }
 
-#content{
+.content{
     width: 320px;
     height: 499px;  
     background-color: var(--white);
@@ -35,20 +35,20 @@ body{
     
 }
 
-#content img{
+.content img{
     width: 288px;
     height: 288px;
     border-radius: 10px;
     margin: 16px;
 }
 
-#content h1{
+.content h1{
     font-size: 20px;
     font-weight: 900;
     margin: 5px 20px;
 }
 
-#content p{
+.content p{
     font-size: 15px;
     font-weight: 250;
     margin: 20px;
